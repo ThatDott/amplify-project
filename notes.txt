@@ -4,4 +4,5 @@
 4. Install amplify via npm create amplify@latest
 5. Create amplify_outputs.json via npx ampx sandbox
 6. Added amplify ui via npm add @aws-amplify/ui-react
-7. 
+7. Imported authenticator from react and implemented on App.tsx
+8. 
