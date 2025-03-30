@@ -1,3 +1,6 @@
 1. Create React App
 2. Add local repo to github
 3. Deploy to amplify via github
+4. Install amplify via npm create amplify@latest
+5. Create amplify_outputs.json via npx ampx sandbox
+6.
